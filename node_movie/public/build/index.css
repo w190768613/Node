@@ -1,0 +1,46 @@
+.h1, .h2, .h3, h1, h2, h3
+{
+  margin-top: 10px;
+  margin-bottom: 10px;    
+}
+
+h2, h3
+{
+	color:green;
+}
+
+a
+{
+	color:green;
+}
+
+.page-header 
+{
+  margin: 20px 0 20px;  
+}
+
+.navbar 
+{
+  min-height: 40px;
+}
+
+.navbar-default .navbar-brand
+{
+    color: green;
+}
+
+.pagination>.active>span 
+{
+	background-color: green;
+}
+
+.panel-heading
+{
+  padding: 5px 5px;
+}
+
+.btn-green
+{
+	background-color: green;
+	color: white;
+}

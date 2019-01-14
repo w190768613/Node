@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "authors": [
+    "Autsid"
+  ],
+  "description": "imooc movie 0.0.1",
+  "main": "",
+  "keywords": [
+    "movie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "moment": "^2.22.2"
+  }
+}
